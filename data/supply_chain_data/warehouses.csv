@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,city,region,capacity_units
+W01,Delhi DC,Delhi,North,12000
+W02,Mumbai DC,Mumbai,West,15000
+W03,Bengaluru DC,Bengaluru,South,11000
+W04,Kolkata DC,Kolkata,East,8000
+W05,Hyderabad DC,Hyderabad,South,9000

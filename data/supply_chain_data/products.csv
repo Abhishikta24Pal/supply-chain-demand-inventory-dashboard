@@ -1,0 +1,62 @@
+product_id,product_name,category,unit_cost,unit_price,shelf_life_days,lead_time_days
+P001,Wireless Earbuds,Electronics,4711.55,6613.17,,11
+P002,Bluetooth Speaker,Electronics,836.81,1331.76,,19
+P003,Power Bank,Electronics,4780.57,6190.07,,18
+P004,USB-C Cable,electronics,5582.56,8236.25,,11
+P005,Smart Watch,Electronics,2827.46,3759.2,,4
+P006,Webcam,Electronics,5017.5,7381.16,,13
+P007,Keyboard,Electronics,2320.8,3689.48,,11
+P008,Mouse,Electronics,1409.44,1992.04,,19
+P009,Phone Charger,Electronics,,1756.28,,20
+P010,LED Monitor,Electronics,2157.2,2976.2,,17
+P011,Air Fryer,Home & Kitchen,784.73,1016.6,,16
+P012,Mixer Grinder,Home & Kitchen,2393.88,3358.62,,12
+P013,Water Bottle,Home & Kitchen,2938.07,4500.15,,18
+P014,Lunch Box,Home & Kitchen,2436.36,3164.62,,10
+P015,Non-stick Pan,Home & Kitchen ,174.66,266.43,,17
+P016,Electric Kettle,Home & Kitchen,2765.44,3900.99,,15
+P017,Storage Jar Set,Home & Kitchen,618.32,797.69,,11
+P018,Dinner Set,Home & Kitchen,2043.54,3101.58,,15
+P019,Knife Set,Home & Kitchen,2004.49,2897.94,,18
+P020,Cutting Board,Home & Kitchen,1613.0,2137.39,,8
+P021,Cotton T-Shirt,Apparel,2148.17,2861.1,,18
+P022,Denim Jeans,Apparel,804.63,1192.2,,4
+P023,Hoodie,Apparel,1981.36,2937.39,,10
+P024,Running Shoes,Apparel,500.74,629.91,,10
+P025,Formal Shirt,Apparel,1833.66,2588.5,,16
+P026,Track Pants,Apparel,465.55,695.4,,6
+P027,Socks Pack,Apparel,1014.45,1375.12,,15
+P028,Winter Jacket,APPAREL,310.36,400.77,,14
+P029,Kurta,Apparel,2280.59,3409.25,,11
+P030,Cap,Apparel,1969.0,2955.29,,8
+P031,Basmati Rice 5kg,Grocery,234.23,300.69,270,20
+P032,Olive Oil 1L,Grocery,189.51,257.18,365,14
+P033,Green Tea Box,Grocery,608.23,921.76,270,16
+P034,Instant Noodles Case,Grocery,,671.19,180,15
+P035,Almonds 500g,Grocery,326.12,412.4,180,12
+P036,Peanut Butter,Grocery,152.5,196.14,180,14
+P037,Masala Chai Pack,Grocery,652.08,947.71,270,9
+P038,Cereal Box,Grocery,74.59,118.26,270,12
+P039,Honey Jar,Grocery,112.95,160.43,365,12
+P040,Pasta Pack,Grocery,425.91,602.97,365,8
+P041,Face Wash,Health & Beauty,975.56,1369.31,365,3
+P042,Sunscreen,grocery ,1621.4,2106.34,365,13
+P043,Shampoo,Health & Beauty,1236.25,1667.0,365,15
+P044,Body Lotion,Health & Beauty,1402.07,1805.46,540,20
+P045,Vitamin C Tablets,Health & Beauty,144.35,208.47,540,10
+P046,Hand Sanitizer,Health & Beauty,1470.19,2000.93,365,21
+P047,Hair Oil,Health & Beauty,965.9,1293.91,730,20
+P048,Lip Balm,Health & Beauty,157.25,220.51,730,21
+P049,Protein Powder,Health & Beauty,1367.61,2135.9,365,19
+P050,Toothpaste Pack,Health & Beauty,623.4,947.7,540,15
+P051,A4 Paper Ream,Office Supplies,186.98,282.6,,10
+P052,Gel Pens Box,Office Supplies,399.41,516.42,,7
+P053,Notebook Pack,Office Supplies,272.26,357.41,,9
+P054,Stapler,Office Supplies,499.97,761.0,,14
+P055,Desk Organizer,Office Supplies,776.07,1009.17,,20
+P056,Sticky Notes,Office Supplies,241.14,358.62,,3
+P057,Marker Set,Office Supplies,784.18,1170.77,,17
+P058,File Folders,Office Supplies,1215.98,1824.45,,14
+P059,Whiteboard,Office Supplies,240.03,310.43,,13
+P060,Printer Ink,Office Supplies,486.38,691.15,,20
+P021,Cotton T-Shirt,Apparel,2148.17,2861.1,,18
