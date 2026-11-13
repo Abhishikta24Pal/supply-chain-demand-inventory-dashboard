@@ -107,3 +107,9 @@ WITH std AS (
 SELECT forecast_month, product_id, warehouse_id, forecast_qty, actual_qty
 FROM std
 WHERE rn = 1 AND forecast_qty IS NOT NULL;
+
+SELECT 'products' AS tbl,   (SELECT COUNT(*) FROM products)   AS raw_rows, (SELECT COUNT(*) FROM clean_products)   AS clean_rows
+UNION ALL SELECT 'sales',     (SELECT COUNT(*) FROM sales),     (SELECT COUNT(*) FROM clean_sales)
+UNION ALL SELECT 'inventory', (SELECT COUNT(*) FROM inventory), (SELECT COUNT(*) FROM clean_inventory)
+UNION ALL SELECT 'forecast',  (SELECT COUNT(*) FROM forecast),  (SELECT COUNT(*) FROM clean_forecast);
+
